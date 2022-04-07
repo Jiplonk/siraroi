@@ -14,9 +14,14 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ├📍 083113989278 (Ovo/Gopay)
 └────
 Berapapun donasi kalian akan sangat berarti 👍
-
-Arigatou!
-
+ ~List Harga Sewa⬇️
+Sewa Bot By : 𝙆𝘼𝙕𝙐𝙆𝙄🔰
+- List  Harga :
+• 2-Minggu : 15k
+• 1-Bulan : 30k
+• 2-Bulan : 50k
+*Note* : Bot On 24 Jam, 
+Mau Sewa Bot? : Chat Ownernya
 Contact person Owner:
 wa.me/6283113989278 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/276e08fd524cfaa1d6bb9.jpg' }}, { upload: conn.waUploadToServer })
